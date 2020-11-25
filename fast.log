@@ -1,0 +1,31 @@
+11/25/2020-22:08:18.361976  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 10.211.55.11:48818 -> 175.213.35.39:80
+11/25/2020-22:08:19.512579  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 10.211.55.11:48818 -> 175.213.35.39:80
+11/25/2020-22:08:19.721410  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 10.211.55.11:48818 -> 175.213.35.39:80
+11/25/2020-22:08:20.818263  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 10.211.55.11:48818 -> 175.213.35.39:80
+11/25/2020-22:08:33.414256  [**] [1:10002:1] nic.hot access [**] [Classification: (null)] [Priority: 3] {TCP} 10.211.55.11:55268 -> 52.89.14.193:80
+11/25/2020-22:08:39.822012  [**] [1:10003:1] sex.com access [**] [Classification: (null)] [Priority: 3] {TCP} 10.211.55.11:43784 -> 99.79.105.69:80
+11/25/2020-22:08:48.784928  [**] [1:10004:1] not3.io access [**] [Classification: (null)] [Priority: 3] {TCP} 10.211.55.11:37780 -> 52.218.248.163:80
+11/25/2020-22:08:57.741743  [**] [1:10005:1] kidsmobi.com access [**] [Classification: (null)] [Priority: 3] {TCP} 10.211.55.11:56074 -> 52.66.168.120:80
+11/25/2020-22:09:05.866347  [**] [1:10006:1] naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 10.211.55.11:55684 -> 223.130.195.200:443
+11/25/2020-22:09:16.144674  [**] [1:10007:1] facebook.com access [**] [Classification: (null)] [Priority: 3] {TCP} 10.211.55.11:49862 -> 31.13.76.35:443
+11/25/2020-22:09:23.728997  [**] [1:10008:1] youtube.com access [**] [Classification: (null)] [Priority: 3] {TCP} 10.211.55.11:60624 -> 172.217.24.142:443
+11/25/2020-22:09:23.928018  [**] [1:10008:1] youtube.com access [**] [Classification: (null)] [Priority: 3] {TCP} 10.211.55.11:52266 -> 172.217.31.174:443
+11/25/2020-22:09:28.191359  [**] [1:10009:1] zoom.us access [**] [Classification: (null)] [Priority: 3] {TCP} 10.211.55.11:43298 -> 3.235.71.135:443
+11/25/2020-22:09:38.278761  [**] [1:10010:1] adobe.com access [**] [Classification: (null)] [Priority: 3] {TCP} 10.211.55.11:54448 -> 23.53.32.35:443
+11/25/2020-22:10:01.676925  [**] [1:10011:1] microsoft.com access [**] [Classification: (null)] [Priority: 3] {TCP} 10.211.55.11:34698 -> 23.212.13.232:443
+11/25/2020-22:10:11.802721  [**] [1:10011:1] microsoft.com access [**] [Classification: (null)] [Priority: 3] {TCP} 10.211.55.11:53458 -> 13.77.161.179:443
+11/25/2020-22:10:12.128910  [**] [1:10011:1] microsoft.com access [**] [Classification: (null)] [Priority: 3] {TCP} 10.211.55.11:34702 -> 23.212.13.232:443
+11/25/2020-22:10:24.669627  [**] [1:10012:1] apple.com access [**] [Classification: (null)] [Priority: 3] {TCP} 10.211.55.11:36956 -> 23.53.36.239:443
+11/25/2020-22:10:38.323705  [**] [1:10013:1] bing.com [**] [Classification: (null)] [Priority: 3] {TCP} 10.211.55.11:55444 -> 13.107.21.200:443
+11/25/2020-22:10:38.411985  [**] [1:10013:1] bing.com [**] [Classification: (null)] [Priority: 3] {TCP} 10.211.55.11:36444 -> 204.79.197.200:443
+11/25/2020-22:10:45.228026  [**] [1:10014:1] twitter.com access [**] [Classification: (null)] [Priority: 3] {TCP} 10.211.55.11:57116 -> 104.244.42.193:443
+11/25/2020-22:10:54.157689  [**] [1:10015:1] cnn.com access [**] [Classification: (null)] [Priority: 3] {TCP} 10.211.55.11:43056 -> 151.101.77.67:443
+11/25/2020-22:10:54.346276  [**] [1:10015:1] cnn.com access [**] [Classification: (null)] [Priority: 3] {TCP} 10.211.55.11:35712 -> 151.101.1.67:443
+11/25/2020-22:11:03.504366  [**] [1:10016:1] dropbox.com access [**] [Classification: (null)] [Priority: 3] {TCP} 10.211.55.11:38894 -> 162.125.248.1:443
+11/25/2020-22:11:03.911748  [**] [1:10016:1] dropbox.com access [**] [Classification: (null)] [Priority: 3] {TCP} 10.211.55.11:59948 -> 162.125.80.1:443
+11/25/2020-22:11:10.932836  [**] [1:10017:1] trello.com access [**] [Classification: (null)] [Priority: 3] {TCP} 10.211.55.11:34396 -> 18.136.214.18:443
+11/25/2020-22:11:26.632408  [**] [1:10018:1] msn.com access [**] [Classification: (null)] [Priority: 3] {TCP} 10.211.55.11:55396 -> 13.82.28.61:443
+11/25/2020-22:11:27.266388  [**] [1:10018:1] msn.com access [**] [Classification: (null)] [Priority: 3] {TCP} 10.211.55.11:56926 -> 204.79.197.203:443
+11/25/2020-22:11:34.586053  [**] [1:10019:1] slack.com access [**] [Classification: (null)] [Priority: 3] {TCP} 10.211.55.11:41552 -> 52.198.217.116:443
+11/25/2020-22:11:39.281675  [**] [1:10020:1] twitch.tv access [**] [Classification: (null)] [Priority: 3] {TCP} 10.211.55.11:47096 -> 151.101.194.167:443
+11/25/2020-22:11:39.505950  [**] [1:10020:1] twitch.tv access [**] [Classification: (null)] [Priority: 3] {TCP} 10.211.55.11:41952 -> 151.101.78.167:443
